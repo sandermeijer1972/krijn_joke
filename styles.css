@@ -49,6 +49,7 @@ main {
     padding: 5px;
     font-size: 30px;
     background-color: red;
+    color: yellow;
     width: 300px;
     transform: rotate(25deg);
     border-radius: 20px;
