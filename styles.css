@@ -67,6 +67,10 @@ footer {
     margin: 8px;
     padding: 10px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .naam {
@@ -78,6 +82,7 @@ footer {
 .liedje {
     font-family: monospace;
     font-size: 25px;
+    color: green;
     margin: 12px;
 }
 
@@ -100,6 +105,6 @@ footer {
         justify-content: center;
     }
     .aanvraag {
-        width: 375px;
+        width: 380px;
     }
 }
