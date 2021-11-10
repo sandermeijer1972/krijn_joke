@@ -98,6 +98,22 @@ footer {
     content: '"';
 }
 
+section {
+    background-color: lime;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: #FF0066;
+    width: 200px;
+    height: 80px;
+    font-family: fantasy;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
 @media (min-width: 800px) {
     .lijst {
         display: flex;
