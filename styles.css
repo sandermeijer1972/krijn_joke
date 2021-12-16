@@ -114,6 +114,12 @@ button {
     margin-bottom: 25px;
 }
 
+button:hover {
+    background-color: #ff4d94;
+    font-size: 52px;
+    cursor: pointer;
+}
+
 @media (min-width: 800px) {
     .lijst {
         display: flex;
